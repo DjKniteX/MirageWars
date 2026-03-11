@@ -9,5 +9,5 @@
 
 <p>The prologue version has the basic game loop and is open source yall. The main finished game. Which I will dub 1.0 will have features that is not featured such as a different win/loss condition, travel to different locations, and possible combat system. Or anything that the C64 will allow </p>
 
-<a href="url"><img src="screenshots/miragewars.png align="left" height="48" width="48" ></a>
+(!)[screenshot](screenshots/miragewars.png)
 
